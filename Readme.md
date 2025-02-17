@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4fa72dd2-15e6-4649-8d53-d64987d85e72)
+![image](https://github.com/user-attachments/assets/4a44cf87-05f3-41e0-b45a-dc03e2ba2cb7)
+
 
 ## Visit rockae.com to get started
 ![image](https://github.com/user-attachments/assets/3997d18d-00d0-4dce-bd75-be79d808dc63)

@@ -1,4 +1,4 @@
-![LevelUp (6)](https://github.com/user-attachments/assets/198c2067-3aca-4797-b7af-55636eceeaba)
+![image](https://github.com/user-attachments/assets/4fa72dd2-15e6-4649-8d53-d64987d85e72)
 
 ## Visit rockae.com to get started
 ![image](https://github.com/user-attachments/assets/3997d18d-00d0-4dce-bd75-be79d808dc63)

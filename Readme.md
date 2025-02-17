@@ -9,7 +9,7 @@
 ## Step 2 : Sign In 
 ![image](https://github.com/user-attachments/assets/855d9bb5-d364-4829-a3ab-dc2943941691)
 
-## Step 3 : Create Your Quiz
+## Step 3 : Create Your Quiz using our ai models
 ![image](https://github.com/user-attachments/assets/4b354534-86d8-4b58-a97c-37354e15f225)
 
 ## step 4 : select created quiz from quiz bank
@@ -17,6 +17,10 @@
 
 ## step 5 : take test
 ![image](https://github.com/user-attachments/assets/bf0e566b-2b3d-4450-8dc0-b7f0142ec53f)
+
+## step 5 : view test scores
+![image](https://github.com/user-attachments/assets/2ec3d733-f5fe-4d16-b6e1-0cb702ee82dd)
+
 
 
 

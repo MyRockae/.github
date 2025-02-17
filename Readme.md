@@ -6,16 +6,16 @@
 ## Step 1 : Register
 ![image](https://github.com/user-attachments/assets/a8af1221-d0f8-4d04-8da8-8f58cb5f492b)
 
-##Step 2 : Sign In 
+## Step 2 : Sign In 
 ![image](https://github.com/user-attachments/assets/855d9bb5-d364-4829-a3ab-dc2943941691)
 
-##Step 3 : Create Your Quiz
+## Step 3 : Create Your Quiz
 ![image](https://github.com/user-attachments/assets/4b354534-86d8-4b58-a97c-37354e15f225)
 
-##step 4 : select created quiz from quiz bank
+## step 4 : select created quiz from quiz bank
 ![image](https://github.com/user-attachments/assets/8dd357a9-4704-45ed-b32a-001e004bab94)
 
-##step 5 : take test
+## step 5 : take test
 ![image](https://github.com/user-attachments/assets/bf0e566b-2b3d-4450-8dc0-b7f0142ec53f)
 
 

@@ -21,6 +21,10 @@
 ## step 5 : view test scores
 ![image](https://github.com/user-attachments/assets/2ec3d733-f5fe-4d16-b6e1-0cb702ee82dd)
 
+## step 6 : Read more
+![image](https://github.com/user-attachments/assets/01111add-02aa-40c1-959f-58b8e0d6f31c)
+
+
 
 
 

@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8ef2689c-88b2-4629-ae8f-347c319bb15a)
+
 ## Hi there 👋
 
 Welcome to the official GitHub of **Rockea** – an innovative platform where AI meets education! Our mission is to revolutionize learning by turning any text into interactive quizzes, making assessments effortless and engaging.

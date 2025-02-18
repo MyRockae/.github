@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8ef2689c-88b2-4629-ae8f-347c319bb15a)
+
+![LevelUp (8)](https://github.com/user-attachments/assets/21a6becf-0162-4060-9c93-08ddca1ca52c)
 
 ## Hi there 👋
 

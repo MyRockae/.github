@@ -1,36 +1,71 @@
 ![Join Rockae](https://raw.githubusercontent.com/MyRockae/.github/main/assets/rockaejoinus.png)
 
-# Hi there 👋
+# Rockae
 
-Welcome to the official GitHub of **Rockae** – a platform built for people who want to create, run, and grow meaningful communities. We believe the best learning and connection happen in spaces that members own and shape together. Rockae gives creators and organizations the tools to build those spaces, engage members, and grow without losing the human touch.
+**Hosted communities** for creators, educators, and groups — forums, classrooms, events, chat, and monetization in one place. No API keys or backend URLs here; this page is the public face of the org. Technical docs live in [Documentation](https://github.com/MyRockae/Documentation).
 
-## Our vision
+## Get started
 
-We're building the place where communities can live, learn, and thrive. Whether you're an educator, a creator, a brand, or a group of friends, Rockae helps you go from an idea to a real community – with structure, content, and membership built in from day one.
+| | |
+|--|--|
+| **Run your community** | [rockae.com](https://rockae.com/) — sign up, create or join communities, owner and member tools on web |
+| **Discover communities** | [explore.rockae.com](https://explore.rockae.com/) — marketing and discovery |
+| **On the go** | Rockae mobile app (iOS and Android) — same communities, tuned for members and owners |
 
-## What we do
+## Who Rockae is for
 
-- **Create and join communities** – Start a community in minutes or discover and join communities that match your interests. Public previews, clear membership options, and simple onboarding so visitors become members.
-- **Rich, flexible community features** – Forums for discussion, blogs for long-form content, resources and featured content for learning, classrooms for courses, calendars for events, quizzes and polls for engagement, and tools like wheels for participation – so each community can choose what fits.
-- **Monetization and growth** – Free and paid plans, subscriptions, and payment options so creators can sustain and grow their communities while keeping control of access and pricing.
-- **Security and scale** – Authentication, roles (owner, co-owner, moderator, member), and privacy-aware design so communities stay safe and reliable as they grow.
+| | |
+|--|--|
+| **Community owners** | Launch a space, set tiers and access, publish content, invite members, and optionally charge for groups, events, or store products |
+| **Members** | Learn, discuss, chat, and take part in classrooms, journeys, quizzes, polls, and events |
+| **Visitors** | Preview communities and join when ready |
 
-## Get involved
+Platform operations (support, analytics, finance) use a separate **staff admin** application — not the public portal.
 
-We care deeply about open collaboration and welcome contributions from developers, designers, educators, and community builders.
+## What communities can include
 
-- **Explore the code** – Browse our repositories to see how we build the platform, from the frontend experience to APIs and backend services.
-- **Contribute** – Check our Contribution guidelines for how to submit pull requests, report issues, and suggest improvements.
-- **Join discussions** – Use GitHub Discussions to share ideas, ask questions, and connect with others who care about community software.
+- **Conversation** — forums, town hall, community blog, public feeds  
+- **Learning** — classrooms, lessons, learning journeys, resources, quizzes  
+- **Engagement** — polls, meetings, real-time chat, badges, optional engagement insights for managers  
+- **Monetization** — free or paid access tiers, subscriptions, digital store, paid events  
+- **Management** — roles (owner, co-owner, moderator, member), moderation, Telegram notifications where enabled  
 
-## Resources
+## How the product fits together
 
-- **Documentation** – Guides and references for using and contributing to Rockae.
-- **Issues** – Report bugs, request features, or track work in our Issues.
-- **Website** – [rockae.com](https://rockae.com) to see the product in action and learn more about our mission.
+```mermaid
+flowchart LR
+  visitors[Visitors]
+  owners[Owners]
+  members[Members]
 
-## A little about us
+  explore[Explore site]
+  portal[Portal web]
+  mobile[Mobile apps]
 
-Our team starts each day with a strong cup of coffee and a focus on making community-building simpler and more powerful. We're a small team with big ambitions: we want Rockae to be the place where the best communities are created and sustained.
+  visitors --> explore
+  visitors --> portal
+  owners --> portal
+  owners --> mobile
+  members --> portal
+  members --> mobile
+  explore -.-> portal
+```
 
-Thanks for stopping by – we're excited to have you here. Happy coding and community-building. 🚀
+Behind the scenes, Rockae is built as a **modular platform** (web and mobile clients, shared data, payment and messaging services). Architecture and requirements for contributors: [MyRockae/Documentation](https://github.com/MyRockae/Documentation).
+
+## Open source
+
+We welcome issues, discussions, and pull requests across our repositories.
+
+- **Product documentation** — [Documentation](https://github.com/MyRockae/Documentation) (BRD, PRD, system design, repo catalog)  
+- **Portal (web)** — [CommunityBuilder.PortalApp](https://github.com/MyRockae/CommunityBuilder.PortalApp)  
+- **Mobile** — [CommunityBuilder.MobileApp](https://github.com/MyRockae/CommunityBuilder.MobileApp)  
+- **All repositories** — [github.com/orgs/MyRockae/repositories](https://github.com/orgs/MyRockae/repositories)
+
+## Connect
+
+- **Website** — [rockae.com](https://rockae.com)  
+- **Explore** — [explore.rockae.com](https://explore.rockae.com)  
+- **Discussions** — use GitHub Discussions on the repo you are contributing to  
+
+Thanks for visiting — happy community building.

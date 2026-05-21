@@ -1,33 +1,39 @@
-![image](https://github.com/user-attachments/assets/4a44cf87-05f3-41e0-b45a-dc03e2ba2cb7)
+# MyRockae `.github`
 
+GitHub **organization profile** and shared assets for [Rockae](https://rockae.com/) — a **community hosting platform** (not a standalone quiz app).
 
-## Visit rockae.com to get started
-![image](https://github.com/user-attachments/assets/3997d18d-00d0-4dce-bd75-be79d808dc63)
+## Organization landing page
 
-## Step 1 : Register
-![image](https://github.com/user-attachments/assets/a8af1221-d0f8-4d04-8da8-8f58cb5f492b)
+The profile shown on [github.com/MyRockae](https://github.com/MyRockae) is:
 
-## Step 2 : Sign In 
-![image](https://github.com/user-attachments/assets/855d9bb5-d364-4829-a3ab-dc2943941691)
+**[`profile/README.md`](profile/README.md)**
 
-## Step 3 : Create Your Quiz using our ai models
-![image](https://github.com/user-attachments/assets/4b354534-86d8-4b58-a97c-37354e15f225)
+That file is the public landing: product positioning, get-started links, and a simple diagram. It intentionally does **not** list internal API hostnames or endpoints.
 
-## step 4 : select created quiz from quiz bank
-![image](https://github.com/user-attachments/assets/8dd357a9-4704-45ed-b32a-001e004bab94)
+## Product links (user-facing only)
 
-## step 5 : take test
-![image](https://github.com/user-attachments/assets/bf0e566b-2b3d-4450-8dc0-b7f0142ec53f)
+| Surface | URL |
+|---------|-----|
+| **Community portal** | [https://rockae.com/](https://rockae.com/) |
+| **Explore / discovery** | [https://explore.rockae.com/](https://explore.rockae.com/) |
 
-## step 5 : view test scores
-![image](https://github.com/user-attachments/assets/2ec3d733-f5fe-4d16-b6e1-0cb702ee82dd)
+Staff admin and backend services are not documented on this landing page.
 
-## step 6 : Read more
-![image](https://github.com/user-attachments/assets/01111add-02aa-40c1-959f-58b8e0d6f31c)
+## Documentation for contributors
 
+Architecture, business requirements, and repository map:
 
+**[github.com/MyRockae/Documentation](https://github.com/MyRockae/Documentation)**
 
+## Contents of this repo
 
+| Path | Purpose |
+|------|---------|
+| [`profile/`](profile/) | Org profile README (main landing) |
+| [`assets/`](assets/) | Shared images (e.g. org banner) |
+| [`thumbnails/`](thumbnails/) | Default thumbnails and SVG assets |
+| [`TESTING_GUIDE.md`](TESTING_GUIDE.md) | Portal QA checklist for testers (environment URLs inside that doc only) |
 
+## Legacy note
 
-
+Older README screenshots described an AI quiz-only flow. The live product is **hosted communities** on [rockae.com](https://rockae.com/). Update marketing assets here when you have new screenshots for the community journey.

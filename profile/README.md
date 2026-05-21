@@ -2,35 +2,31 @@
 
 # Rockae
 
-**Hosted communities** for creators, educators, and groups — forums, classrooms, events, chat, and monetization in one place. Technical docs live in [Documentation](https://github.com/MyRockae/Documentation).
+**Where communities belong.**
 
-## Get started
+Feeds get noisy. Group chats disappear. Courses sit in one app, events in another, and the people who actually show up never quite meet in the same room. Rockae exists because **belonging needs a home** — a place you own, shape, and grow with the people who care.
+
+We build software for that home: hosted communities with real conversation, learning, events, and (when you want it) a path to sustainability.
+
+---
+
+## Why communities still win
+
+The best things we learn, build, and believe together rarely happen in isolation. They happen when someone asks a good question in a forum, when a cohort finishes a lesson the same week, when a member stays after the meeting because the chat is still warm.
+
+Communities are not a feature. They are **infrastructure for trust** — and Rockae is our bet that creators, educators, teams, and friends deserve tools that respect that, not flatten it into a single feed.
+
+---
+
+## What you can do on Rockae
 
 | | |
 |--|--|
-| **Run your community** | [rockae.com](https://rockae.com/) — sign up, create or join communities, owner and member tools on web |
-| **Discover communities** | [explore.rockae.com](https://explore.rockae.com/) — marketing and discovery |
-| **On the go** | Rockae mobile app (iOS and Android) — same communities, tuned for members and owners |
+| **Start or join** | [rockae.com](https://rockae.com/) — create a community, invite members, or find one that fits you |
+| **Discover** | [explore.rockae.com](https://explore.rockae.com/) — browse what is out there before you commit |
+| **Take it with you** | Mobile apps for members and owners who live on their phone |
 
-## Who Rockae is for
-
-| | |
-|--|--|
-| **Community owners** | Launch a space, set tiers and access, publish content, invite members, and optionally charge for groups, events, or store products |
-| **Members** | Learn, discuss, chat, and take part in classrooms, journeys, quizzes, polls, and events |
-| **Visitors** | Preview communities and join when ready |
-
-Platform operations (support, analytics, finance) use a separate **staff admin** application — not the public portal.
-
-## What communities can include
-
-- **Conversation** — forums, town hall, community blog, public feeds  
-- **Learning** — classrooms, lessons, learning journeys, resources, quizzes  
-- **Engagement** — polls, meetings, real-time chat, badges, optional engagement insights for managers  
-- **Monetization** — free or paid access tiers, subscriptions, digital store, paid events  
-- **Management** — roles (owner, co-owner, moderator, member), moderation, Telegram notifications where enabled  
-
-## How the product fits together
+Inside a community you might run **forums and town hall**, **classrooms and learning journeys**, **polls, quizzes, and events**, **real-time chat**, **blogs and resources**, and **tiers or paid access** when the owner is ready to monetize. You choose the mix; the platform holds the space.
 
 ```mermaid
 flowchart LR
@@ -38,9 +34,9 @@ flowchart LR
   owners[Owners]
   members[Members]
 
-  explore[Explore site]
-  portal[Portal web]
-  mobile[Mobile apps]
+  explore[Explore]
+  portal[Portal]
+  mobile[Mobile]
 
   visitors --> explore
   visitors --> portal
@@ -51,21 +47,32 @@ flowchart LR
   explore -.-> portal
 ```
 
-Behind the scenes, Rockae is built as a **modular platform** (web and mobile clients, shared data, payment and messaging services). Architecture and requirements for contributors: [MyRockae/Documentation](https://github.com/MyRockae/Documentation).
+---
 
-## Open source
+## Read the story on our blog
 
-We welcome issues, discussions, and pull requests across our repositories.
+Product updates, community-building ideas, and the occasional behind-the-scenes note — **our blog is where we talk like humans**, not release notes.
 
-- **Product documentation** — [Documentation](https://github.com/MyRockae/Documentation) (BRD, PRD, system design, repo catalog)  
-- **Portal (web)** — [CommunityBuilder.PortalApp](https://github.com/MyRockae/CommunityBuilder.PortalApp)  
-- **Mobile** — [CommunityBuilder.MobileApp](https://github.com/MyRockae/CommunityBuilder.MobileApp)  
-- **All repositories** — [github.com/orgs/MyRockae/repositories](https://github.com/orgs/MyRockae/repositories)
+**[rockae.com/blog](https://rockae.com/blog)** — grab a coffee and scroll. If you have just landed from GitHub, start there to see what we are building and why.
 
-## Connect
+---
 
-- **Website** — [rockae.com](https://rockae.com)  
-- **Explore** — [explore.rockae.com](https://explore.rockae.com)  
-- **Discussions** — use GitHub Discussions on the repo you are contributing to  
+## Build with us (and have a say)
 
-Thanks for visiting — happy community building.
+This org is open. We ship in public repos, but the **conversation** happens in [**MyRockae Discussions**](https://github.com/orgs/MyRockae/discussions) — announcements, ideas, questions, show-and-tell. That is the front door if you want to contribute, suggest a feature, or meet the people behind the code.
+
+| Want to… | Go here |
+|----------|---------|
+| **Talk to the team and community** | [**github.com/orgs/MyRockae/discussions**](https://github.com/orgs/MyRockae/discussions) |
+| **Understand the platform (BRD, architecture, repos)** | [Documentation](https://github.com/MyRockae/Documentation) |
+| **Browse or fork code** | [Portal](https://github.com/MyRockae/CommunityBuilder.PortalApp) · [Mobile](https://github.com/MyRockae/CommunityBuilder.MobileApp) · [all repos](https://github.com/orgs/MyRockae/repositories) |
+
+Open an issue when something breaks. Start a discussion when something *should* exist. We would rather hear you early than guess in a vacuum.
+
+---
+
+## A small team, a big room
+
+We are building Rockae because we have seen what happens when community builders get generic tools and members get friction. We want the opposite: **less setup, more presence, room to grow.**
+
+Thanks for stopping by on GitHub. If this resonated, say hi in [Discussions](https://github.com/orgs/MyRockae/discussions) — or go start something real at [rockae.com](https://rockae.com/).

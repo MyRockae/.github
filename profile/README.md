@@ -2,7 +2,7 @@
 
 # Rockae
 
-**Hosted communities** for creators, educators, and groups — forums, classrooms, events, chat, and monetization in one place. No API keys or backend URLs here; this page is the public face of the org. Technical docs live in [Documentation](https://github.com/MyRockae/Documentation).
+**Hosted communities** for creators, educators, and groups — forums, classrooms, events, chat, and monetization in one place. Technical docs live in [Documentation](https://github.com/MyRockae/Documentation).
 
 ## Get started
 

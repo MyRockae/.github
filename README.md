@@ -8,7 +8,7 @@ The profile shown on [github.com/MyRockae](https://github.com/MyRockae) is:
 
 **[`profile/README.md`](profile/README.md)**
 
-That file is the public landing: product positioning, get-started links, and a simple diagram. It intentionally does **not** list internal API hostnames or endpoints.
+That file is the public landing: product positioning, get-started links, and a simple diagram.
 
 ## Product links (user-facing only)
 
@@ -16,8 +16,6 @@ That file is the public landing: product positioning, get-started links, and a s
 |---------|-----|
 | **Community portal** | [https://rockae.com/](https://rockae.com/) |
 | **Explore / discovery** | [https://explore.rockae.com/](https://explore.rockae.com/) |
-
-Staff admin and backend services are not documented on this landing page.
 
 ## Documentation for contributors
 

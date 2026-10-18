@@ -1,4 +1,4 @@
-![Join Rockae](https://raw.githubusercontent.com/MyRockae/.github/main/assets/rockaejoinus.png)
+<img width="2508" height="627" alt="586b6b81-56fb-4ffa-92b0-e217eee8ce04" src="https://github.com/user-attachments/assets/6e0ea995-a5de-4fa1-a841-3e7b417930d8" />
 
 # Rockae
 
